@@ -64,7 +64,8 @@ My interests include:
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hugo-schroder)
-
+- ✉️ contact@hugoschroder.dev
+  
 ---
 
 > 🎯 *Learning by building — always curious, always improving.*
