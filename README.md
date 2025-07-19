@@ -63,7 +63,7 @@ My interests include:
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/hugo-schroder)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-schroder)
 
 ---
 
