@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Hugo Schroder (HijackCs)
+# 👋 Hello there! I'm Hugo Schroder (Hijack Dev)
 
 💻 _Full Stack Developer | Passionate about clean code & CI/CD | Soon-to-be graduate_
 
