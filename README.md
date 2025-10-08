@@ -1,23 +1,24 @@
 # 👋 Hello there! I'm Hugo Schroder (HijackCs)
 
-💻 _Full Stack Developer (Vue.js / Symfony) | Passionate about clean code & CI/CD | Soon-to-be graduate_
+💻 _Full Stack Developer | Passionate about clean code & CI/CD | Soon-to-be graduate_
 
 ---
 
 ## 🧭 About Me
 
-I'm currently a full stack apprentice developer at **CAF du Nord**, working with Vue.js ([Quasar](https://quasar.dev/)) and Symfony. I focus on building maintainable, efficient internal tools and modern web apps.
+I'm a full-stack web developer and UI designer passionate about building useful, scalable, and elegant digital products.  
 
-I’m completing a Master’s degree in Software Engineering for the Internet at the **University of Artois**, and looking for a **full-time position starting September 2025**, while also growing my freelance activity, with the goal of eventually working independently.
+I hold a Master's degree in Software Engineering for the Internet from the University of Artois, and I’ve spent two years working as an apprentice developer at CAF du Nord — where I contributed to modernizing internal tools, implementing CI/CD pipelines, and building responsive web apps with **Vue.js (Quasar)** and **Symfony**.
 
+Today, I'm growing my **freelance activity** and creating **Hijack Dev**, a space where I share projects, ideas, and experiments around web development, UX, and innovation.  
+My long-term goal: work independently, helping startups and teams turn their ideas into impactful products.
 
-Whether it's collaborating in a fast-paced team or taking full ownership of a project, I'm passionate about delivering robust and elegant solutions.
-
-My interests include:
-- Building responsive, user-friendly web apps
-- Implementing CI/CD workflows (GitLab CI)
-- Writing clean, testable backend code (Symfony, Java)
-- Learning about DevOps & software architecture
+**What I love working on:**
+- 🌐 Building responsive, user-friendly web apps  
+- ⚙️ Implementing CI/CD workflows (GitLab CI)  
+- 🧠 Designing clean, testable backend architectures (Symfony, Java, Node.js)  
+- 🚀 Exploring DevOps, software architecture & product design  
+- 💡 Experimenting with new tools, ideas, and ways of building better software
 
 ---
 
@@ -56,16 +57,17 @@ My interests include:
 
 ---
 🚀 Goals
-- 🔍 Currently looking for a full-time developer role (CDI) starting September 2025
-- 🧑‍💻 Building my freelance portfolio & client base in parallel
+- 🧑‍💻 Currently building my freelance portfolio & client base
 - 🛠️ Long-term goal: Work fully independently as a freelance developer
 ---
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-schroder)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-schroder)  
+- 🐦 [X (Twitter)](https://x.com/hijack_dev)  
+- 📸 [Instagram](https://www.instagram.com/hijack_dev)  
 - ✉️ contact@hugoschroder.dev
-  
+
 ---
 
 > 🎯 *Learning by building — always curious, always improving.*
