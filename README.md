@@ -74,6 +74,7 @@ maintainable solutions with a strong focus on usability and performance.
 - TypeScript-first frameworks (e.g. AdonisJS)
 - Docker-based development workflows
 - UX, product thinking & design fundamentals
+- n8n automation workflows
 
 ---
 
